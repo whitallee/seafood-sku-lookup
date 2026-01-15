@@ -2,9 +2,8 @@
   "name": "seafood-sku-lookup-mvp",
   "version": "1.0.0",
   "description": "Simple API to lookup seafood SKUs by name",
-  "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "dev": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
