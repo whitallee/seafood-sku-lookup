@@ -1,0 +1,121 @@
+[
+  { "sku": "52012", "names": ["crawfish"] },
+
+  { "sku": "25766", "names": ["corn"] },
+  { "sku": "37372", "names": ["potatoes"] },
+  { "sku": "37031", "names": ["mac and cheese large", "mac and cheese family size"] },
+  { "sku": "25506", "names": ["sausage"] },
+
+  { "sku": "37484", "names": ["garlic butter", "garlic butter dollops"] },
+  { "sku": "37658", "names": ["butter scampi", "butter scampi 8ct", "butter scampi dollop", "butter scampi dollop 8ct", "scampi butter"] },
+
+  { "sku": "37064", "names": ["korean bbq portion", "portion korean bbq"] },
+
+  { "sku": "25878", "names": ["grilled shrimp party tray", "grilled shrimp party size", "grilled shrimp large"] },
+  { "sku": "25558", "names": ["grilled shrimp tray", "grilled shrimp with blackened", "grilled shrimp with blackened sauce", "grilled shrimp blackened"] },
+  { "sku": "37736", "names": ["grilled shrimp with buffalo sauce", "grilled shrimp buffalo"] },
+
+  { "sku": "37089", "names": ["seasoned shrimp tray", "seasoned shrimp party tray", "seasoned shrimp"] },
+
+  { "sku": "37246", "names": ["lemon dill shrimp", "buttery lemon dill shrimp cocktail tray", "buttery lemon dill shrimp", "dill shrimp"] },
+  { "sku": "37618", "names": ["shrimp scampi"] },
+  { "sku": "37190", "names": ["shrimp cocktail tray family size", "shrimp cocktail family size", "shrimp cocktail large"] },
+  { "sku": "37240", "names": ["chesapeake shrimp cocktail", "chesapeake shrimp"] },
+
+  { "sku": "37513", "names": ["jumbo pico breaded shrimp"] },
+  { "sku": "37371", "names": ["coconut shrimp", "shrimp jumbo coconut"] },
+  { "sku": "37477", "names": ["coconut shrimp family size", "coconut shrimp large", "shrimp jumbo coconut family size"] },
+
+  { "sku": "37874", "names": ["imitation crab", "imitation snow crab cocktail tray", "imitation snow crab tray", "imitation crab tray"] },
+  { "sku": "37876", "names": ["imitation shrimp tray", "imitation crab and shrimp cocktail tray"] },
+
+  { "sku": "37828", "names": ["oyster rockefeller", "oyster rockefeller bacon"] },
+
+  { "sku": "45240", "names": ["shrimp salad"] },
+  { "sku": "37650", "names": ["seafood salad"] },
+
+  { "sku": "25194", "names": ["colossal tiger shrimp", "tiger shrimp", "colossal shrimp"] },
+  { "sku": "37922", "names": ["colossal white shrimp"] },
+  { "sku": "37191", "names": ["argentine shrimp"] },
+  { "sku": "25259", "names": ["black tiger shrimp"] },
+  { "sku": "25134", "names": ["texas raw large shrimp"] },
+  { "sku": "37287", "names": ["texas raw jumbo shrimp"] },
+
+  { "sku": "25178", "names": ["salmon texas size", "texas size salmon"] },
+  { "sku": "25441", "names": ["salmon center cut"] },
+
+  { "sku": "37234", "names": ["fiesta salmon burger", "salmon burger fiesta", "salmon burger fiesta tp"] },
+  { "sku": "37236", "names": ["cranberry salmon burger", "salmon burger cranberry", "cranberry burger"] },
+
+  { "sku": "37533", "names": ["basil pesto salmon"] },
+  { "sku": "37534", "names": ["chipotle lime salmon", "chipotle lime salmon portion"] },
+  { "sku": "37885", "names": ["honey garlic salmon"] },
+  { "sku": "37887", "names": ["jalapeño salmon", "salmon jalapeño center cut", "salmon center cut smoky jalapeño"] },
+
+  { "sku": "37170", "names": ["organic salmon"] },
+  { "sku": "37826", "names": ["orange salmon", "orange marinated salmon", "cedar plank orange"] },
+
+  { "sku": "25220", "names": ["steelhead trout"] },
+  { "sku": "25344", "names": ["steelhead trout texas size", "steelhead texas size"] },
+  { "sku": "25044", "names": ["red rainbow trout"] },
+  { "sku": "25103", "names": ["whole rainbow trout"] },
+
+  { "sku": "25726", "names": ["aji tuna"] },
+
+  { "sku": "25925", "names": ["chilean sea bass"] },
+  { "sku": "25061", "names": ["flounder"] },
+
+  { "sku": "37438", "names": ["cheddar cod with green beans", "cod with green bean", "cod with green beans", "potato cheddar with green beans"] },
+
+  { "sku": "25710", "names": ["whole red snapper"] },
+  { "sku": "25082", "names": ["whole atlantic salmon"] },
+
+  { "sku": "25046", "names": ["whole mahi mahi"] },
+  { "sku": "25666", "names": ["whole monkfish"] },
+  { "sku": "25072", "names": ["whole texas hybrid striped bass"] },
+  { "sku": "25014", "names": ["whole texas redfish"] },
+  { "sku": "37518", "names": ["whole whiting"] },
+  { "sku": "25362", "names": ["whole barramundi"] },
+  { "sku": "37554", "names": ["whole sablefish"] },
+  { "sku": "37607", "names": ["whole colombian river sockeye salmon"] },
+  { "sku": "37519", "names": ["whole black sea bass"] },
+  { "sku": "37521", "names": ["whole bluefish"] },
+  { "sku": "37134", "names": ["whole alaskan coho salmon"] },
+  { "sku": "25467", "names": ["american red snapper head"] },
+  { "sku": "25738", "names": ["whole buffalo fish"] },
+  { "sku": "25772", "names": ["whole haddock"] },
+  { "sku": "25744", "names": ["west coast whole flounder"] },
+  { "sku": "25817", "names": ["whole texas catfish"] },
+  { "sku": "25810", "names": ["whole texas catfish"] },
+  { "sku": "37139", "names": ["whole european sea bass"] },
+  { "sku": "37353", "names": ["whole scored tilapia"] },
+  { "sku": "25663", "names": ["whole alaskan halibut"] },
+  { "sku": "37393", "names": ["whole ocean perch"] },
+  { "sku": "25958", "names": ["whole farm king salmon"] },
+  { "sku": "25739", "names": ["whole jumbo catfish"] },
+  { "sku": "25798", "names": ["whole catfish"] },
+  { "sku": "37349", "names": ["whole swordfish"] },
+  { "sku": "37350", "names": ["whole atlantic cod"] },
+  { "sku": "25742", "names": ["whole black drum"] },
+  { "sku": "25094", "names": ["red grouper"] },
+  { "sku": "37517", "names": ["whole mackerel"] },
+  { "sku": "37443", "names": ["whole rockfish"] },
+  { "sku": "37352", "names": ["whole amberjack"] },
+  { "sku": "25214", "names": ["whole octopus"] },
+
+  {
+    "sku": "pending",
+    "names": ["dover sole"],
+    "note": "multiple skus observed (25331, 25332); requires validation"
+  },
+  {
+    "sku": "pending",
+    "names": ["atlantic salmon"],
+    "note": "primary fresh/portion sku pending vault confirmation"
+  },
+  {
+    "sku": "pending",
+    "names": ["rainbow trout"],
+    "note": "non-whole sku pending confirmation"
+  }
+]
