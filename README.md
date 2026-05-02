@@ -1,5 +1,44 @@
-Tech Meetup 1/15/2026
+# Seafood SKU Lookup
 
-This project is to be integrated with Siri and Shortcuts on the iPhone.
+A lightweight Node.js API that takes a fish name or alias and returns the correct SKU. Built to integrate with Siri via Apple Shortcuts for quick lookups on the floor.
 
-This is a backend API server that receives a name of fish or alias of a fish and then returns the correct SKU. This should be easy to plug into any other system.
+**Apple Shortcut:** [link coming soon]
+
+> **Note:** This project will eventually be merged into [store-assistant](https://github.com/whitallee/store-assistant).
+
+---
+
+## API
+
+```
+GET /api/sku/:fishName
+```
+
+Accepts a fish name or any known alias (case-insensitive).
+
+**Example:**
+```
+GET /api/sku/ahi
+
+{
+  "fishName": "ahi",
+  "sku": "012345",
+  "found": true
+}
+```
+
+---
+
+## Running Locally
+
+```bash
+npm install
+node server.js
+# → http://localhost:3000
+```
+
+---
+
+## Setup
+
+Fish names and aliases are stored in `data.json`. Add new entries there to expand the lookup database.
